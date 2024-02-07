@@ -963,5 +963,10 @@ public class BaseClass {
 		javaScriptObj().executeScript("arguments[0].scrollIntoView();", element);
 
 	}
+	
+	public void demo() {
+		
+	}
+	
 
 }
